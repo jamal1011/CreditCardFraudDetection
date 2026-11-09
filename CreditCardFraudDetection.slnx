@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FraudModel/FraudModel.csproj" />
+  <Project Path="MLModel_ConsoleApp2/MLModel_ConsoleApp2.csproj" />
+</Solution>
